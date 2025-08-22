@@ -89,7 +89,7 @@ body {
   font-size: 1rem;
   cursor: pointer;
   padding: 15px;
-  background: linear-gradient(rgb(84, 147, 209), rgb(56, 56, 230));
+  background: linear-gradient(rgb(142, 193, 243), rgb(124, 124, 227));
   width: 500px;
   border: none;
   margin-top: 25px;
@@ -109,12 +109,12 @@ body {
   font-variation-settings: "wdth" 100;
 }
 .form form a:hover {
-  color: rgb(56, 56, 230);
+  color: rgb(61, 61, 188);
 }
 
 .form .acesso input:hover {
   cursor: pointer;
-  background: linear-gradient(rgb(56, 56, 230), rgb(87, 147, 207));
+  background: linear-gradient(rgb(124, 124, 227), rgb(142, 193, 243));
 }
 
 .images {
