@@ -120,7 +120,7 @@ Planned enhancements include:
 1. Clone the repository:
 
    ```bash
-   git clone <>
+   git clone <git@github.com:Felipe-Loures/login-screen-refactor.git>
    ```
 
 2. Open the project folder
